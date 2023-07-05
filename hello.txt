@@ -8,4 +8,5 @@ git status
 
 git add hello.txt
 git commit -m "Hello file added"
+git pull origin main
 git push origin main
