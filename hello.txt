@@ -1,1 +1,11 @@
-test
+git clone https://github.com/lal-krishnan/nodejs-mongodb-bolierplate.git
+
+cd nodejs-mongodb-bolierplate
+
+git branch
+
+git status
+
+git add hello.txt
+git commit -m "Hello file added"
+git push origin main
